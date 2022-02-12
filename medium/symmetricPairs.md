@@ -10,15 +10,15 @@ Sample Input
 
 ![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/SQL_queries/blob/b4e6d21df82f283046e35c80a305d75adf8f15c9/medium/assets/symmetricPairs2.JPG)
  
-Sample Output  
+### Sample Output  
 
 20 20  
 20 21  
 22 23  
 
-## How to run this project?
+### How to run this project?
 
-Precondition: Oracle SQL Developer
+#### Precondition: Oracle SQL Developer
 
 ```SQL
 
@@ -150,7 +150,7 @@ insert into functions(x,y) values(10 ,10);
 
 ```
 
-Solution
+### Solution
 
 ```SQL
 
@@ -165,7 +165,7 @@ order by a.x asc;
 
 ```
 
-Results
+### Results
 
 ```SQL
 
