@@ -37,12 +37,13 @@ Not A Triangle
 ### How to run this project?
 
 
-### Precondition: Oracle SQL Developer
+#### Precondition: Oracle SQL Developer
 
 ```SQL
 
 -- create table triangles
 
+create table triangles
 ( a integer,
   b integer,
   c integer);
@@ -67,7 +68,7 @@ insert into triangles(a,b,c) values(80, 80, 80);
 
 ```
 
-# Solution
+### Solution
 
 ```SQL
 
